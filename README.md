@@ -35,6 +35,6 @@ The Input should end with '$' example: 5+6/7*8-9+8$
 👉 See the Example.txt file for more understanding of using the parser
 
 ### Todo list:
-> bottom up parser implementation 
-> SLR parser
+> bottom up parser implementation, 
+> SLR parser,
 > LALR parser
