@@ -9,9 +9,8 @@
 
 ### To - do 
 
-- Bottom up parser
-- More implementation on core CS concepts
--
+- [ ] Bottom up parser
+- [ ] More implementation on core CS concepts
 
 
 **Example:**
