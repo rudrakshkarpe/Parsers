@@ -7,11 +7,6 @@
 ### 💡 Note:
 - The Rules should not have left recursion.
 
-### To-do List ☑️ 
-
-- [ ] Bottom up parser
-- [ ] More implementation on core CS concepts
-
 
 **Example:**
 
@@ -43,3 +38,7 @@ The Input should end with '$' example: 5+6/7*8-9+8$
 > bottom up parser implementation, 
 > SLR parser,
 > LALR parser
+
+### To-do List ☑️ 
+- [ ] Bottom up parser
+- [ ] More implementation on core CS concepts
