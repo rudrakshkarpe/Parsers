@@ -7,6 +7,12 @@
 ### 💡 Note:
 - The Rules should not have left recursion.
 
+### To - do 
+
+- Bottom up parser
+- More implementation on core CS concepts
+-
+
 
 **Example:**
 
